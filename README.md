@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fiqyiscool
+- 👋 Hi, I’m Fiqy
 - 👀 I’m interested in games
 - 🌱 I’m currently learning gdscript
 - 💞️ I’m looking to collaborate on game dev
